@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Log xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>Властелин Колец: Братство Кольца</Film>
+  <Time>10:43</Time>
+  <Cost>250</Cost>
+  <Adult>18</Adult>
+  <Id>3</Id>
+</Log>
